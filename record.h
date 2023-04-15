@@ -4,4 +4,4 @@
 #define PARKOUR_RECORD_H
 int read_record();
 void write_record(int score);
-#endif //PARKOUR_RECORD_H
+#endif
